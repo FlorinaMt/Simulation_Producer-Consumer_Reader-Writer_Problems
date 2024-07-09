@@ -20,3 +20,7 @@
 • Proxy between the Treasure room and the Guardsman.
 
 • There is quite a distance from the Deposit to the Treasure Room, so a Valuables Transporter does not want to transport only one valuable at a time. Therefore, the Valuables Transporter will generate a random number, e.g. between 50 and 200. He will then, a number of times, get the next valuable from the Deposit. This will continue, until he has a list of valuables with a total worth equal to or more than the original target number.
+
+#### Class Diagram
+![image](https://github.com/FlorinaMt/Producer-Consumer_Reader-Writer_Problems/assets/151634373/dac283ec-6e51-4fb9-a1c1-3cc0f74f434f)
+
