@@ -14,7 +14,9 @@
 • Multiton for different types of Valuables, e.g. Diamond, GoldNugget, Jewel, Ruby, WoodenCoin.
 
 • Adapter for the ArrayList in the Deposit.
+
 • Producer - Consumer for the Deposit with the Miners and Valuables Transporters being producers and consumers, respectively.
+
 • Readers - Writers for the Treasure room and Guardsman.
 
 • Proxy between the Treasure room and the Guardsman.
